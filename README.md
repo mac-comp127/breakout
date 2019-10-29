@@ -89,7 +89,7 @@ methods short, with a single clear purpose and a name that clearly expresses tha
 
 Remember the refactoring skills you have learned. It is always a good strategy to **get _something_ working, then refactor it.**
 
-Please pay special attention to the [Comp 127 Style Guide](https://docs.google.com/document/d/1KB3T5can3aC5qygtdjKTUzl0P3c8BlN1QaWy4rIc2F0/edit#).
+Please pay special attention to the [Comp 127 Style Guide](https://docs.google.com/document/d/1KB3T5can3aC5qygtdjKTUzl0P3c8BlN1QaWy4rIc2F0/edit?usp=sharing).
 
 Because this program is entirely graphical, you do not need to write JUnit tests; however, you may if writing tests helps you develop the logic. You should make sure you test thoroughly by playing the game.
 
