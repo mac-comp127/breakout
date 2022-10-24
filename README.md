@@ -6,14 +6,9 @@ For this homework assignment, you will write a program to play the classic arcad
 
 Breakout was developed in 1976 by Steve Wozniak, shortly before he cofounded Apple Computer, Inc. He [cited the experience of building the game](https://archive.org/stream/byte-magazine-1984-12/1984_12_BYTE_09-13_Communications#page/n461/mode/2up) as part of his inspiration in creating the Apple ][, the first commercially viable home computer.
 
-## Academic Integrity Acknowledgement
+### 👀 HEADS UP! 👀
 
-In order to turn in your homework, write the following statement in a file named ASSIGNMENT_COMPLETE.txt:
-
-> > While working on this assignment, I did not look at anybody else’s solution. I used the following help and outside resources: [….]
-[your name here]
-
-Your homework **is not submitted** until you create, commit, and push this file.
+To complete this assignment, you must include an Academic Integrity Acknowledgement. There are [instructions near the bottom of this document](#academic-integrity-acknowledgement).
 
 ## The game 
 
@@ -103,6 +98,23 @@ Please pay special attention to the [Comp 127 Style Guide](https://docs.google.c
 Because this program is entirely graphical, you do not need to write JUnit tests; however, you may if writing tests helps you develop the logic. You should make sure you test thoroughly by playing the game.
 
 
+## Academic Integrity Acknowledgement
+
+When you have completed the assignment, create a file named `ASSIGNMENT_COMPLETE.txt` in the root directory of this project. Write the following statement in it, filling in the blanks:
+
+> While working on this assignment, I did not look at anybody else’s solution.
+> I used the following help and outside resources:
+> 
+> - [resource you used]
+> - [help you received]
+> 
+> [your name here]
+
+If the statement above is not true in your case, then explain your situation in the file.
+
+Your homework **is not submitted** until you create, commit, and push this file.
+
+
 ## Due Dates
 
 This homework will have three milestones:
@@ -130,15 +142,7 @@ To receive full credit, you must have:
 * Good code style
 * Academic Integrity Acknowledgement
 
-### Academic Integrity Acknowledgement
 
-In order to turn in your homework, write the following statement in a file named ASSIGNMENT_COMPLETE.txt:
-
-> > While working on this assignment, I did not look at anybody else’s solution. I used the following help and outside resources: [….]
-[your name here]
-
-Your homework **is not submitted** until you create, commit, and push this file.
-
-### Attribution
+## Attribution
 
 This assignment and some of the description text come from *The Art and Science of Java* by Eric Roberts.
