@@ -6,6 +6,15 @@ For this homework assignment, you will write a program to play the classic arcad
 
 Breakout was developed in 1976 by Steve Wozniak, shortly before he cofounded Apple Computer, Inc. He [cited the experience of building the game](https://archive.org/stream/byte-magazine-1984-12/1984_12_BYTE_09-13_Communications#page/n461/mode/2up) as part of his inspiration in creating the Apple ][, the first commercially viable home computer.
 
+## Academic Integrity Acknowledgement
+
+In order to turn in your homework, write the following statement in a file named ASSIGNMENT_COMPLETE.txt:
+
+> > While working on this assignment, I did not look at anybody else’s solution. I used the following help and outside resources: [….]
+[your name here]
+
+Your homework **is not submitted** until you create, commit, and push this file.
+
 ## The game 
 
 The initial configuration of the Breakout game appears in the left image below. The colored 
@@ -119,6 +128,16 @@ To receive full credit, you must have:
 * Good class decomposition
 * Good method decomposition
 * Good code style
+* Academic Integrity Acknowledgement
+
+### Academic Integrity Acknowledgement
+
+In order to turn in your homework, write the following statement in a file named ASSIGNMENT_COMPLETE.txt:
+
+> > While working on this assignment, I did not look at anybody else’s solution. I used the following help and outside resources: [….]
+[your name here]
+
+Your homework **is not submitted** until you create, commit, and push this file.
 
 ### Attribution
 
