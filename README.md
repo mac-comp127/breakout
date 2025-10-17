@@ -12,11 +12,13 @@ This assignment is a capstone of sorts: the skills and knowledge you'll demonstr
 
 Some particular items include, but aren't limited to:
 
-* The modeling/abstraction process: start from a real-world, English-language description of some system, problem, or process, and *model* that. In other words, you are create an *abstraction*.
+* The modeling/abstraction process: start from a real-world, English-language description of some system, problem, or process, and *model* that. In other words, you are creating an *abstraction*.
 * Translate that into Java code. There are two parts to this:
   - Starting from the abstract model you developed above (which says nothing about computer code or any particular programming language), describe the high-level architecture or structure of the Java code that will implement that model. You can think of this part as creating a detailed class diagram of the system. It will refer to classes, relationships, perhaps even methods, but doesn't describe any actual Java code.
   - Implement the above class diagram. This is where you are in Visual Studio actually writing and debugging code.
 * Use documentation to independently work out how to use APIs.
+
+This homework is less prescriptive than previous assignments; we provide you with less direction and instructions. You'll need to independently do more: both more coding, and more higher-level modeling, design, and planning. **This is in part to prepare you for the upcoming project** which will involve even *less* direction and instructions.
 
 ## 👀 HEADS UP! 👀
 
